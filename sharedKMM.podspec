@@ -9,6 +9,8 @@ Pod::Spec.new do |spec|
 
     spec.static_framework         = true
     spec.vendored_frameworks      = "build/cocoapods/framework/sharedKMM.framework"
+    spec.public_header_files = 'src/commonMain/kotlin/com/example/mykmmapplication/*'
+
     spec.libraries                = "c++"
     spec.module_name              = "#{spec.name}_umbrella"
 
