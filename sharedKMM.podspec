@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'sharedKMM'
     spec.version                  = '1.0'
-    spec.homepage                 = 'https://github.com/PriyankaLohri/PSKMMShared'
-    spec.source                   = { :git => "https://github.com/PriyankaLohri/PSKMMShared.git", :tag => "Cocoapods/#{spec.name}/#{spec.version}" }
+    spec.homepage                 = 'https://github.com/PriyankaLohri/PSSharedPod'
+    spec.source                   = { :git => "https://github.com/PriyankaLohri/PSSharedPod.git", :tag => "Cocoapods/#{spec.name}/#{spec.version}" }
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'Some description for the Shared Module'
