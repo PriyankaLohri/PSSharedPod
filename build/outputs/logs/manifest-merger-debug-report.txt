@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml:2:1-52
+INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml:2:1-52
+INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml:2:1-52
+	package
+		ADDED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml:2:11-49
+		INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml:2:1-52
+uses-sdk
+INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+		ADDED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
+		INJECTED from /Users/priyanka/WorkSpace/KPIT/MyKMMApplication/sharedKMM/src/androidMain/AndroidManifest.xml
